@@ -192,6 +192,7 @@ dist
 ### replit ###
 # Replit config file
 .replit
+.replit.nix
 
 # Replit Nix config file
 replit.nix
